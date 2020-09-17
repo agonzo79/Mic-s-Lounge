@@ -27,15 +27,15 @@ a {
   font-family: 'Oswald', sans-serif;
 }
 
-a:hover {
-  background-color: gray;
-  padding: .5em;
-}
 
 li {
   padding: 20px;
-
 }
+
+li:hover {
+  background-color: red;
+}
+
 .logo {
   text-align: left;
 }
