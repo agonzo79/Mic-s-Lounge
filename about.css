@@ -8,3 +8,15 @@
   background-attachment: fixed;
   color: white;
 }
+
+.about-sect {
+  display: grid;
+  /* align-items: center; */
+  text-align: center;
+}
+  
+  p {
+  font-size: 20px;
+  line-height: 40px;
+  font-weight: bold;
+}
